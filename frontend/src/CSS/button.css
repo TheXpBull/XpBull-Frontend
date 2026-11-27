@@ -1,9 +1,13 @@
 .button{
   width: 100px ;
-  height: 30px;
-  border-radius: 5px;
+  height: 35px;
+  border-radius: 20px;
   border: none;
   color: white;
   font-size: 15px;
   background-color: transparent;
+}
+.button:hover{
+  cursor: pointer;
+  background-color: #C04E00;
 }

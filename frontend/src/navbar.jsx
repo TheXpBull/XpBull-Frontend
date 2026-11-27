@@ -4,7 +4,8 @@ function Header (){
 
   return(
     <>
-      <div className="logo">
+      <div className="navbar">
+        <div className="logo">
         <img src="#" alt="symbolLogo"></img>
         <img src="#" alt="nameLogo"></img>
       </div>
@@ -21,6 +22,7 @@ function Header (){
       </div>
       <div className="userProfile">
 
+      </div>
       </div>
     </>
   );
